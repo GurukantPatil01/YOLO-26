@@ -1,0 +1,5 @@
+feature_cache/
+__pycache__/
+.DS_Store
+*.pyc
+*.pth
